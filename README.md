@@ -1,4 +1,6 @@
-# The Endless Conflict Official Rules
+# The Endless Conflict Official Rules v1.0
+
+_Last update 2023.08.06_
 
 ## Changes from v0.1
 - 3.2: Title renamed from "Good Standing" to "Square Enix Disciplinary Action."
